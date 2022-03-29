@@ -1,0 +1,408 @@
+[
+    {
+      "organisasjonsnummer" : "310203157",
+      "navn" : "TILBAKEHOLDEN OPERATIV ISBJØRN SA",
+      "organisasjonsform" : {
+        "kode" : "SA",
+        "beskrivelse" : "Samvirkeforetak"
+      },
+      "postadresse" : {
+        "land" : "Norge",
+        "landkode" : "NO",
+        "postnummer" : "9107",
+        "poststed" : "KVALØYA",
+        "adresse" : [ "v/ Heldeiligdedikert Eksakt Lama", "Oladalvegen 1" ],
+        "kommune" : "TROMSØ",
+        "kommunenummer" : "5401"
+      },
+      "registreringsdatoEnhetsregisteret" : "2021-03-12",
+      "registrertIMvaregisteret" : false,
+      "naeringskode1" : {
+        "beskrivelse" : "Utleie av egen eller leid fast eiendom ellers",
+        "kode" : "68.209"
+      },
+      "antallAnsatte" : 0,
+      "forretningsadresse" : {
+        "land" : "Norge",
+        "landkode" : "NO",
+        "postnummer" : "9011",
+        "poststed" : "TROMSØ",
+        "adresse" : [ "Garver Eidissens veg 6" ],
+        "kommune" : "TROMSØ",
+        "kommunenummer" : "5401"
+      },
+      "stiftelsesdato" : "1965-07-16",
+      "institusjonellSektorkode" : {
+        "kode" : "2100",
+        "beskrivelse" : "Private aksjeselskaper mv."
+      },
+      "registrertIForetaksregisteret" : true,
+      "registrertIStiftelsesregisteret" : false,
+      "registrertIFrivillighetsregisteret" : false,
+      "konkurs" : false,
+      "underAvvikling" : false,
+      "underTvangsavviklingEllerTvangsopplosning" : false,
+      "maalform" : "Bokmål"
+    },
+      {
+      "organisasjonsnummer" : "310203165",
+      "navn" : "LENGRE KLOK KATT HØVEL",
+      "organisasjonsform" : {
+        "kode" : "ENK",
+        "beskrivelse" : "Enkeltpersonforetak"
+      },
+      "postadresse" : {
+        "land" : "Norge",
+        "landkode" : "NO",
+        "postnummer" : "8130",
+        "poststed" : "SANDHORNØY",
+        "adresse" : [ "Hustadarmen 14" ],
+        "kommune" : "GILDESKÅL",
+        "kommunenummer" : "1838"
+      },
+      "registreringsdatoEnhetsregisteret" : "2021-03-12",
+      "registrertIMvaregisteret" : true,
+      "frivilligMvaRegistrertBeskrivelser" : [ "Bortforpakter av landbrukseiendom" ],
+      "naeringskode1" : {
+        "beskrivelse" : "Dyrking av korn (unntatt ris), belgvekster og oljeholdige vekster",
+        "kode" : "01.110"
+      },
+      "naeringskode2" : {
+        "beskrivelse" : "Avvirkning",
+        "kode" : "02.200"
+      },
+      "antallAnsatte" : 0,
+      "forretningsadresse" : {
+        "land" : "Norge",
+        "landkode" : "NO",
+        "postnummer" : "8094",
+        "poststed" : "FLEINVÆR",
+        "adresse" : [ "Fjordbotnetutkanten" ],
+        "kommune" : "GILDESKÅL",
+        "kommunenummer" : "1838"
+      },
+      "institusjonellSektorkode" : {
+        "kode" : "8200",
+        "beskrivelse" : "Personlig næringsdrivende"
+      },
+      "registrertIForetaksregisteret" : false,
+      "registrertIStiftelsesregisteret" : false,
+      "registrertIFrivillighetsregisteret" : false,
+      "konkurs" : false,
+      "underAvvikling" : false,
+      "underTvangsavviklingEllerTvangsopplosning" : false,
+      "maalform" : "Nynorsk"
+    },
+  {
+  "organisasjonsnummer" : "310528692",
+  "navn" : "PATENT HURTIG TIGER AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-03-14",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted",
+    "kode" : "74.909"
+  },
+  "antallAnsatte" : 2,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "3214",
+    "poststed" : "SANDEFJORD",
+    "adresse" : [ "Granittveien 23" ],
+    "kommune" : "SANDEFJORD",
+    "kommunenummer" : "3804"
+  },
+  "stiftelsesdato" : "2012-05-29",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+},
+  {
+  "organisasjonsnummer" : "310528706",
+  "navn" : "LEI UTYDELIG APE",
+  "organisasjonsform" : {
+    "kode" : "FLI",
+    "beskrivelse" : "Forening/lag/innretning",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-03-12",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Idrettslag og -klubber",
+    "kode" : "93.120"
+  },
+  "antallAnsatte" : 0,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "2827",
+    "poststed" : "HUNNDALEN",
+    "adresse" : [ "Vestre Kollen" ],
+    "kommune" : "GJØVIK",
+    "kommunenummer" : "3407"
+  },
+  "stiftelsesdato" : "1967-06-16",
+  "institusjonellSektorkode" : {
+    "kode" : "7000",
+    "beskrivelse" : "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret" : false,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : true,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+},
+  {
+  "organisasjonsnummer" : "310528714",
+  "navn" : "UTROLIG FREIDIG TIGER AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-03-15",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Medieformidlingstjenester",
+    "kode" : "73.120"
+  },
+  "antallAnsatte" : 0,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "4056",
+    "poststed" : "TANANGER",
+    "adresse" : [ "Ura 4" ],
+    "kommune" : "SOLA",
+    "kommunenummer" : "1124"
+  },
+  "stiftelsesdato" : "2014-08-28",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+},
+  {
+  "organisasjonsnummer" : "310982083",
+  "navn" : "SJOKKERT RING TIGER AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "postadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "2918",
+    "poststed" : "ULNES",
+    "adresse" : [ "c/o Rusten Underlig Ballong", "Brekkudn 378" ],
+    "kommune" : "NORD-AURDAL",
+    "kommunenummer" : "3451"
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-03-14",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Bedriftsrådgivning og annen administrativ rådgivning",
+    "kode" : "70.220"
+  },
+  "antallAnsatte" : 0,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "2918",
+    "poststed" : "ULNES",
+    "adresse" : [ "c/o Rusten Underlig Ballong", "Brekkudn 378" ],
+    "kommune" : "NORD-AURDAL",
+    "kommunenummer" : "3451"
+  },
+  "stiftelsesdato" : "2008-05-02",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+},
+  {
+  "organisasjonsnummer" : "310982091",
+  "navn" : "ULIK ALTERNATIV APE",
+  "organisasjonsform" : {
+    "kode" : "FLI",
+    "beskrivelse" : "Forening/lag/innretning",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-03-12",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Næringslivs- og arbeidsgiverorganisasjoner",
+    "kode" : "94.110"
+  },
+  "antallAnsatte" : 0,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "3912",
+    "poststed" : "PORSGRUNN",
+    "adresse" : [ "v/ Sannsynlig Styrbar Skjorte", "Teknikergata 11" ],
+    "kommune" : "PORSGRUNN",
+    "kommunenummer" : "3806"
+  },
+  "stiftelsesdato" : "1921-06-23",
+  "institusjonellSektorkode" : {
+    "kode" : "2500",
+    "beskrivelse" : "Private produsentorienterte organisasjoner uten profittformål"
+  },
+  "registrertIForetaksregisteret" : false,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+},
+  {
+  "organisasjonsnummer" : "310982105",
+  "navn" : "REKTANGULÆR OFFISIELL APE",
+  "organisasjonsform" : {
+    "kode" : "FLI",
+    "beskrivelse" : "Forening/lag/innretning",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-03-12",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Utøvende kunstnere og underholdningsvirksomhet innen musikk",
+    "kode" : "90.011"
+  },
+  "antallAnsatte" : 0,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "3403",
+    "poststed" : "LIER",
+    "adresse" : [ "v/ Ðyktig Sigen Ressurs", "Fosshaugveien 4" ],
+    "kommune" : "LIER",
+    "kommunenummer" : "3049"
+  },
+  "stiftelsesdato" : "2004-08-10",
+  "institusjonellSektorkode" : {
+    "kode" : "7000",
+    "beskrivelse" : "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret" : false,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : true,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+},
+  {
+  "organisasjonsnummer" : "310982113",
+  "navn" : "KJEMPENDE KOMFORTABEL KATT FORMUE",
+  "organisasjonsform" : {
+    "kode" : "ENK",
+    "beskrivelse" : "Enkeltpersonforetak",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-03-12",
+  "registrertIMvaregisteret" : true,
+  "naeringskode1" : {
+    "beskrivelse" : "Produksjon av film, video og fjernsynsprogrammer",
+    "kode" : "59.110"
+  },
+  "antallAnsatte" : 0,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "0479",
+    "poststed" : "OSLO",
+    "adresse" : [ "Kyrre Grepps gate 16" ],
+    "kommune" : "OSLO",
+    "kommunenummer" : "0301"
+  },
+  "institusjonellSektorkode" : {
+    "kode" : "8200",
+    "beskrivelse" : "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret" : false,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+},
+  {
+  "organisasjonsnummer" : "310982121",
+  "navn" : "PRAKTISK UVITENDE TIGER AS",
+  "organisasjonsform" : {
+    "kode" : "AS",
+    "beskrivelse" : "Aksjeselskap",
+    "links" : [ ]
+  },
+  "registreringsdatoEnhetsregisteret" : "2021-03-16",
+  "registrertIMvaregisteret" : false,
+  "naeringskode1" : {
+    "beskrivelse" : "Kjøp og salg av egen fast eiendom",
+    "kode" : "68.100"
+  },
+  "antallAnsatte" : 0,
+  "forretningsadresse" : {
+    "land" : "Norge",
+    "landkode" : "NO",
+    "postnummer" : "4633",
+    "poststed" : "KRISTIANSAND S",
+    "adresse" : [ "Bjørndalsheia 28A" ],
+    "kommune" : "KRISTIANSAND",
+    "kommunenummer" : "4204"
+  },
+  "stiftelsesdato" : "2002-01-21",
+  "institusjonellSektorkode" : {
+    "kode" : "2100",
+    "beskrivelse" : "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret" : true,
+  "registrertIStiftelsesregisteret" : false,
+  "registrertIFrivillighetsregisteret" : false,
+  "konkurs" : false,
+  "underAvvikling" : false,
+  "underTvangsavviklingEllerTvangsopplosning" : false,
+  "maalform" : "Bokmål",
+  "links" : [ ]
+}
+]
