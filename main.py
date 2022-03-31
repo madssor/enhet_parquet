@@ -5,8 +5,9 @@
 # The code is written by a non-python-programmer, and will be inefficient and slow.
 # It should mostly be considered as a guide on how similar things could be done. (If you want it to be slow)
 #
-
-
+import gzip
+import shutil
+from io import BytesIO
 
 import requests
 import json
@@ -18,8 +19,8 @@ import pyarrow.parquet as pq
 
 # @profile
 def convert_hovedenheter_to_parquet():
-    f = open("enheter_noen.json")
-    # f = open("enheter_alle.json")
+    # f = open("enheter_noen.json")
+    f = open("enheter_alle.json")
 
     enheter = json.loads(f.read())
 
@@ -64,7 +65,9 @@ def convert_hovedenheter_to_parquet():
     table = pa.Table.from_pandas(df)
     pq.write_table(table, "enheter.parquet")
 
-    # table2 = pq.read_table("example.parquet")
+    # table2 = pq.read_table("enheter.parquet")
+    # print(table2.schema)
+    # print(table2.columns)
     # print(table2.to_pandas())
 
 
@@ -107,18 +110,19 @@ def get_level2_bool_parq(json_records, property1, property2):
             result.append(False)
     return result
 
+
 #
-# def find_enhet():
-#     response = requests.get("https://data.brreg.no/enhetsregisteret/api/enheter/")
-#     print(response.json())
-#     print(type(response.json()))
-#     enhet = response.json()
-#     orgnr = enhet["_embedded"]["enheter"][0]["organisasjonsnummer"]
-#     print("Orgnr er " + orgnr)
+def download_enheter():
+    print('Downloading started')
+    response = requests.get("https://data.brreg.no/enhetsregisteret/api/enheter/lastned")
+    print("Download complete")
+    with gzip.open(BytesIO(response.content), "rb") as f_in:
+        with open("enheter_alle.json", "wb") as f_out:
+            shutil.copyfileobj(f_in, f_out)
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    # print("Calling rest service")
+    download_enheter()
     convert_hovedenheter_to_parquet()
 
